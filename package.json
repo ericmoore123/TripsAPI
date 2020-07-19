@@ -1,0 +1,30 @@
+{
+  "name": "tripsapi",
+  "version": "1.0.0",
+  "description": "Trips API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericmoore123/TripsAPI.git"
+  },
+  "keywords": [
+    "API",
+    "Node",
+    "MongoDB",
+    "JavaScript"
+  ],
+  "author": "Eric Moore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericmoore123/TripsAPI/issues"
+  },
+  "homepage": "https://github.com/ericmoore123/TripsAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.5.9"
+  }
+}
